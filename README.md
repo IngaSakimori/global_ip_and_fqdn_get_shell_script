@@ -1,0 +1,2 @@
+# global_ip_and_fqdn_get_shell_script
+シェルスクリプトでipinfo.ioからグローバルIPとFQDNをとってきてファイルに書き込むスクリプトです
